@@ -7,6 +7,7 @@
 
 ![Rosilaynne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RosilaynneSRosa&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hard Skills
 
@@ -29,10 +30,12 @@
 </div>
 
 
-### Contato
+## Contato
 
 <div style="display: inline_block">
 <img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> (81) 98108-0537</br>
 
 📧 rosilaynne_14@hotmail.com
 </div>
+  
+
